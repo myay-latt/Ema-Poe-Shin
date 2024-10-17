@@ -12,3 +12,16 @@ html {
     --hover: #0b65ff;
     --active: rgb(211, 208, 208);
 }
+
+/* main box - start */
+.main {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--secondary);
+    position: fixed;
+}
+/* main box - end */
